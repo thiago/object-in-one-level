@@ -11,8 +11,17 @@ $ npm install --save object-in-one-level
 
 ```js
 var objectInOneLevel = require('object-in-one-level');
+var obj = {
+  a: {
+    b: {
+      c: 'd'
+    }
+  }
+};
+var oneLevel = objectInOneLevel(obj);
 
-objectInOneLevel('Rainbow');
+// oneLevel['a.b.c'] === 'd'
+
 ```
 ## License
 

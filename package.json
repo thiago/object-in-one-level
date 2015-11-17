@@ -1,7 +1,7 @@
 {
   "name": "object-in-one-level",
-  "version": "0.0.0",
-  "description": "serialize a object to one level",
+  "version": "1.0.0",
+  "description": "serializes a object to one level",
   "homepage": "https://github.com/trsouz/object-in-one-level",
   "author": {
     "name": "Thiago Rodrigues",

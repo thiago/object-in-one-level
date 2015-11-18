@@ -23,6 +23,15 @@ var oneLevel = objectInOneLevel(obj);
 // oneLevel['a.b.c'] === 'd'
 
 ```
+
+### Options
+
+objectInOneLevel(object, string, string)
+
+ - data
+ - prefix *optional*
+ - separator *optional*
+
 ## License
 
 MIT © [Thiago Rodrigues](http://trsweb.com.br)

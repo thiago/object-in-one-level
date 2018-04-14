@@ -2,7 +2,7 @@
   "name": "object-in-one-level",
   "version": "1.0.0",
   "description": "serializes a object to one level",
-  "homepage": "https://github.com/trsouz/object-in-one-level",
+  "homepage": "https://github.com/thiago/object-in-one-level",
   "author": {
     "name": "Thiago Rodrigues",
     "email": "thiagorsouz@gmail.com",
@@ -13,15 +13,15 @@
   ],
   "main": "lib/index.js",
   "keywords": [],
-  "repository": "trsouz/object-in-one-level",
+  "repository": "thiago/object-in-one-level",
   "devDependencies": {
     "gulp": "^3.6.0",
-    "gulp-eslint": "^1.0.0",
+    "gulp-eslint": "^4.0.2",
     "gulp-exclude-gitignore": "^1.0.0",
-    "gulp-istanbul": "^0.9.0",
-    "gulp-mocha": "^2.0.0",
+    "gulp-istanbul": "^1.1.3",
+    "gulp-mocha": "^5.0.0",
     "gulp-plumber": "^1.0.0",
-    "gulp-nsp": "^2.1.0",
+    "gulp-nsp": "^3.0.1",
     "gulp-coveralls": "^0.1.0"
   },
   "scripts": {
